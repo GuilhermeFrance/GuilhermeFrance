@@ -4,7 +4,7 @@
 ## Bem-vindo ao meu perfil github. 🔭
 
 
-> Entusiasta da tecnologia, tenho 20 anos, residente da cidade de Vitória da Conquista, Bahia. Sou estudante de programação para desenvolvedor web, fullstack. Possuo um perfil criativo e traços de designer, desenvolvo um fácil aprendizado e sempre me mantenho atualizado sobre os frameworks, tecnologias e ferramentas de desenvolvimento.
+> Entusiasta da tecnologia, tenho 21 anos, residente da cidade de Vitória da Conquista, Bahia. Sou estudante de programação para desenvolvedor web, fullstack. Possuo um perfil criativo e traços de designer, desenvolvo um fácil aprendizado e sempre me mantenho atualizado sobre os frameworks, tecnologias e ferramentas de desenvolvimento.
  #
 
 <br/>
