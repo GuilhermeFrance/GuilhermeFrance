@@ -15,7 +15,7 @@
 # Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js, css, ts, tailwind, react, vue, nodejs, figma, ai, ps, " />
+    <img src="https://skillicons.dev/icons?i=js,css,ts,tailwind,react,vue,nodejs,figma,ai,ps, " />
   </a>
 </p>
  
