@@ -3,9 +3,10 @@
 
 ## Bem-vindo ao meu perfil github. 🔭
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
 
-> Entusiasta da tecnologia, tenho 21 anos, residente da cidade de Vitória da Conquista, Bahia. Sou estudante de programação para desenvolvedor web, fullstack. Possuo um perfil criativo e traços de designer, desenvolvo um fácil aprendizado e sempre me mantenho atualizado sobre os frameworks, tecnologias e ferramentas de desenvolvimento.
- #
+<p align="left"> Entusiasta da tecnologia, tenho 21 anos, residente da cidade de Vitória da Conquista, Bahia. Sou estudante de programação para desenvolvedor web, fullstack. Possuo um perfil criativo e traços de designer, desenvolvo um fácil aprendizado e sempre me mantenho atualizado sobre os frameworks, tecnologias e ferramentas de desenvolvimento.
+</p>
 
 <br/>
 
