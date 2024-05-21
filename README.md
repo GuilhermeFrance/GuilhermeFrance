@@ -10,6 +10,7 @@
 
 <br/>
 
++ Estudante de UI/UX Design
 
 
 # Tools
