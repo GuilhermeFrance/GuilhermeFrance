@@ -27,5 +27,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-guilherme.france9@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiquesantos04087@gmail.com)](mailto:guilherme.france9@gmail.com)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
