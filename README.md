@@ -25,8 +25,14 @@
 #
 # Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-guilherme.france9@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiquesantos04087@gmail.com)](mailto:guilherme.france9@gmail.com)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<h2>Contato</h2>
+<div>
+  <a href="https://www.instagram.com/g_france07?igsh=MWViNHk5MmR4aGk5Yw==">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+</a>
+<a href="https://www.linkedin.com/in/guilherme-france-de-oliveira-santos-9435aa360/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+</div>
 
 
