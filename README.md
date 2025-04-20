@@ -26,6 +26,6 @@
 # Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-guilherme.france9@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiquesantos04087@gmail.com)](mailto:guilherme.france9@gmail.com)
-![Static Badge](https://img.shields.io/badge/-Instagram)
+![Instagram Badge](https://img.shields.io/badge/-Instagram)
 
 
