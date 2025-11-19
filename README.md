@@ -5,8 +5,7 @@
 
 <img src="https://raw.githubusercontent.com/GuilhermeFrance/Source/main/image/computer.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
 
-<p align="left"> Entusiasta da tecnologia, tenho 22 anos, residente da cidade de Vitória da Conquista, Bahia. Sou estudante de programação para desenvolvedor web, fullstack. Possuo um bom perfil criativo e frontend, desenvolvo um fácil aprendizado e sempre me mantenho atualizado sobre os frameworks, tecnologias e ferramentas de desenvolvimento.
-</p>
+<p align="left"> Entusiasta da tecnologia, tenho 22 anos, residente da cidade de Vitória da Conquista, Bahia. Atualmente sou estudante de desenvolvimento full-stack e atuo como estagiário na Prefeitura Municipal, exercendo a função de desenvolvedor web.
 
 <br/>
 
