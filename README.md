@@ -18,18 +18,7 @@
     <img src="https://skillicons.dev/icons?i=js,css,ts,tailwind,react,vue,nodejs,nestjs,figma, " />
   </a>
 </p>
- 
-#
-# Contato
 
-<h2>Contato</h2>
-<div>
-  <a href="https://www.instagram.com/g_france07?igsh=MWViNHk5MmR4aGk5Yw==">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-</a>
-<a href="https://www.linkedin.com/in/guilherme-france-de-oliveira-santos-9435aa360/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
 </div>
 
 
